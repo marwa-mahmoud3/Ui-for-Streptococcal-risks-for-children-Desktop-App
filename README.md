@@ -1,6 +1,6 @@
 # UI for Streptococcal risks for children Desktop App
 
-Technologies Used : C#, Winforms,Devexpress
+Technologies Used : C#, Winforms, Devexpress
 
 
 ![form1](https://github.com/marwa-mahmoud3/Streptococcal-risks-for-children-Desktop-App/assets/58340861/adbce185-4e17-4589-bbd0-79eca8e2cc0a)
